@@ -19,3 +19,6 @@ LoopAction is a tool that records your operations, such as mouse clicks and typi
 
 # Why did I develop this?
 Once upon a time, I worked as a soldier in one of the departments of the Ministry of Science and Research. One day, I was given a list of names and was told to write a letter with a specific text for each of these individuals and send them a message with a specific text. Because I despise repetitive tasks, I developed this code to expedite my work.
+
+# Screenshot
+<img src="https://github.com/amirhbp75/LoopAction/blob/main/ScreenShot.PNG" width="500" />
